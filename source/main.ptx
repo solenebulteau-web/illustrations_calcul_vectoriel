@@ -10,6 +10,12 @@
   </docinfo>
 
   <article xml:id="shorttitlelowercase">
+  <interactive label="interactive-label" platform="doenetml" width="100%" aspect="2:8">
+  <slate surface="doenetml">
+    <xi:include parse="text" href="test.doenetml"/> 
+  </slate>
+</interactive>
+
     <!--
     <title>The title of my groundbreaking paper</title>
 
@@ -18,8 +24,9 @@
     <xi:include href="./introduction.ptx" />
     <xi:include href="./section-1.ptx" />
     <xi:include href="./section-2.ptx" />
-     -->
+     
     <xi:include href="./section-3.ptx" />
+    -->
   </article>
 
 </pretext>
